@@ -1,0 +1,23 @@
+#box {
+  width: 600px;
+  text-align: center;
+  margin-top: 120px;
+  background-color: #d3d3d3;
+  padding: 50px;
+  border-radius: 20px;
+}
+a {
+  background-color: #808080;
+}
+.fa-twitter {
+  color: black;
+}
+#quoteButton {
+  color: black;
+}
+#quote {
+  font-size: 30px;
+}
+body {
+	background-color: #808080;
+}
